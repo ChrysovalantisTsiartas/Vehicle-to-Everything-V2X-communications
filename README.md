@@ -1,1 +1,1 @@
-# Vehicle-to-Everything-V2X-communications
+This repository contains the implementation of a Vehicle-to-Everything (V2X) communications system. V2X is a technology that enables vehicles to communicate with each other and with other elements in the environment, such as infrastructure, pedestrians, and cyclists. This ReadMe provides an overview of the project structure, functionality, and instructions for running the code.
